@@ -3,8 +3,8 @@ This project is a simple ATM simulator written in Python. It was created as a le
 The project helped me understand how to structure a program with multiple conditions, handle user input, and manage program flow using loops and conditional statements.
 
 Features:
-PIN authentication with limited attempts
-Check account balance
-Deposit and withdraw funds
-Display balance in EURO
-Input validation
+PIN authentication with limited attempts,
+Check account balance,
+Deposit and withdraw funds,
+Display balance in EURO,
+Input validation.
